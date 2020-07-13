@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>https://tuckerproject.github.io/data-science-portfolio/post/project-4/</loc>
+    <lastmod>2016-01-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://tuckerproject.github.io/data-science-portfolio/post/project-3/</loc>
+    <lastmod>2013-01-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://tuckerproject.github.io/data-science-portfolio/post/project-2/</loc>
     <lastmod>2009-01-01T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
